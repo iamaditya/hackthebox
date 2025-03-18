@@ -3,6 +3,6 @@
 
 Welcome to hackthebox obsidian page -- initial commit
 
-HTB Template (HTB-machine)
+HTB Template [MY NOTES](HTB-machine)
 
 
