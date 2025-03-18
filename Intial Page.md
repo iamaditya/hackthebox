@@ -7,3 +7,4 @@ Machine
 checking if all machines are connect or not
 
 ![](attachments/Pasted%20image%2020250318212511.png)
+("")
